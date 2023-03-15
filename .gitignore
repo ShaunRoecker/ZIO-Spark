@@ -1,7 +1,8 @@
-project/
+/.bsp/
 target/
-.DS_Store
+.java-version
+.bloop
 .metals
 .vscode
-.bloop
-.bsp
+project/
+.DS_Store
